@@ -51,7 +51,7 @@ The following tools were used in this project:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/DaviFdePaula/pokedex
+$ git clone https://github.com/DaviFdePaula/Projeto-home-page-Globo.git
 ```
 
 # Autor
