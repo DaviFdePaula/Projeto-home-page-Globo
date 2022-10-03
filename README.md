@@ -58,7 +58,7 @@ $ git clone https://github.com/DaviFdePaula/pokedex
 
 <ul>
   <li>Made with :heart: by <a href="https://github.com/DaviFdePaula" target="_blank">Davi Ferreira de Paula</a></li>
-	<li><a href="linkedin.com/in/davi-ferreira-de-paula-963369236">LinkedIn</a></li>
+  <li>linkedin.com/in/davi-ferreira-de-paula-963369236</li>
 </ul>
 
 <a href="#top">Back to top</a>
