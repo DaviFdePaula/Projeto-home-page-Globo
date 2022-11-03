@@ -24,7 +24,7 @@
 
 <br>
 
-## :dart: About ##
+## :dart: Sobre ##
 
 O projeto consiste em aplicar o layout de uma versão simplificada da home page da Globo.com, utilizando HTML e CSS. Tentando deixar a página ao máximo parecida com o layout abaixo!
 
@@ -33,26 +33,19 @@ O projeto consiste em aplicar o layout de uma versão simplificada da home page 
 
 </p>
 
-## :rocket: Technologies ##
+## :rocket: Tecnologias ##
 
 The following tools were used in this project:
 
 - HTML
 - CSS
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Requirementos ##
 
 - aplicar o layout seguindo o figma fornecido (https://www.figma.com/file/TusiAOJUwrEsBph6gYhUNf/Projeto-Globo.com?node-id=0%3A1);
 - Utilizar a fonte **Encode Sans** na página.
 - Todas as notícias devem ser links. Não é necessário colocar links para as páginas reais, pode ser um link fake (ex: `https://globo.com`).
 
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/DaviFdePaula/Projeto-home-page-Globo.git
-```
 
 # Autor
 
